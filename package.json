@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/cat2koban/resume",
+  "author": "cat2koban <cat2koban@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "md-to-pdf": "^5.2.3"
+  }
+}
