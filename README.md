@@ -66,13 +66,19 @@ https://github.com/cat2koban/resume/blob/main/README.md
 ## OSS活動
 
 - moneyforward/jct
-  - Create a signature with RBS #16 (WIP)
+  - Create a signature with RBS (WIP)
   - https://github.com/moneyforward/jct/pull/16
 - rails/rails
-  - Fixed odd behavior of inverse_of with multiple belongs_to to same class #40643 (Merged)
+  - Fixed odd behavior of inverse_of with multiple belongs_to to same class
   - https://github.com/rails/rails/pull/40643
+- rails/webpacker
+  - Fix wrong path to docs/es6
+  - https://github.com/rails/webpacker/pull/2583
+- javascript-tutorial/ja.javascript.info
+  - fixed wrong function name
+  - https://github.com/javascript-tutorial/ja.javascript.info/pull/164
 - excite/simple-calendar
-  - Fix a small typo in lib/simple_calendar/calendar.rb #234 (Merged)
+  - Fix a small typo in lib/simple_calendar/calendar.rb 
   - https://github.com/excid3/simple_calendar/pull/234
 
 ## コミュニティ活動
